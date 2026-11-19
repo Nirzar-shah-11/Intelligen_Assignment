@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 72000 48000">
+<!-- units: millimetres (viewBox user units); origin top-left; y down. width/height are display size only -->
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g id="walls" data-layer="walls">
+<line x1="72000" y1="0" x2="72000" y2="3000" stroke="#222" stroke-width="150"/>
+<line x1="38000" y1="8000" x2="38000" y2="14000" stroke="#222" stroke-width="150"/>
+<line x1="33000" y1="26000" x2="36000" y2="26000" stroke="#222" stroke-width="150"/>
+<line x1="36000" y1="23000" x2="45000" y2="23000" stroke="#222" stroke-width="150"/>
+<line x1="36000" y1="23000" x2="36000" y2="26000" stroke="#222" stroke-width="150"/>
+<line x1="36000" y1="30000" x2="45000" y2="30000" stroke="#222" stroke-width="150"/>
+<line x1="36000" y1="23000" x2="36000" y2="30000" stroke="#222" stroke-width="150"/>
+<line x1="34000" y1="14000" x2="38000" y2="14000" stroke="#222" stroke-width="150"/>
+<line x1="0" y1="23000" x2="36000" y2="23000" stroke="#222" stroke-width="150"/>
+<line x1="45000" y1="30000" x2="54000" y2="30000" stroke="#222" stroke-width="150"/>
+<line x1="33000" y1="23000" x2="36000" y2="23000" stroke="#222" stroke-width="150"/>
+<line x1="36000" y1="0" x2="36000" y2="20000" stroke="#222" stroke-width="150"/>
+<line x1="0" y1="20000" x2="0" y2="23000" stroke="#222" stroke-width="150"/>
+<line x1="0" y1="20000" x2="72000" y2="20000" stroke="#222" stroke-width="150"/>
+<line x1="33000" y1="23000" x2="33000" y2="26000" stroke="#222" stroke-width="150"/>
+<line x1="54000" y1="30000" x2="63000" y2="30000" stroke="#222" stroke-width="150"/>
+<line x1="0" y1="0" x2="36000" y2="0" stroke="#222" stroke-width="150"/>
+<line x1="69000" y1="0" x2="69000" y2="3000" stroke="#222" stroke-width="150"/>
+<line x1="0" y1="20000" x2="36000" y2="20000" stroke="#222" stroke-width="150"/>
+<line x1="0" y1="0" x2="0" y2="20000" stroke="#222" stroke-width="150"/>
+<line x1="72000" y1="0" x2="72000" y2="20000" stroke="#222" stroke-width="150"/>
+<line x1="36000" y1="20000" x2="72000" y2="20000" stroke="#222" stroke-width="150"/>
+<line x1="63000" y1="30000" x2="72000" y2="30000" stroke="#222" stroke-width="150"/>
+<line x1="36000" y1="0" x2="72000" y2="0" stroke="#222" stroke-width="150"/>
+<line x1="72000" y1="23000" x2="72000" y2="30000" stroke="#222" stroke-width="150"/>
+<line x1="45000" y1="23000" x2="54000" y2="23000" stroke="#222" stroke-width="150"/>
+<line x1="69000" y1="0" x2="72000" y2="0" stroke="#222" stroke-width="150"/>
+<line x1="54000" y1="23000" x2="63000" y2="23000" stroke="#222" stroke-width="150"/>
+<line x1="34000" y1="8000" x2="34000" y2="14000" stroke="#222" stroke-width="150"/>
+<line x1="45000" y1="23000" x2="45000" y2="30000" stroke="#222" stroke-width="150"/>
+<line x1="54000" y1="23000" x2="54000" y2="30000" stroke="#222" stroke-width="150"/>
+<line x1="69000" y1="3000" x2="72000" y2="3000" stroke="#222" stroke-width="150"/>
+<line x1="0" y1="23000" x2="0" y2="48000" stroke="#222" stroke-width="150"/>
+<line x1="34000" y1="8000" x2="38000" y2="8000" stroke="#222" stroke-width="150"/>
+<line x1="0" y1="48000" x2="36000" y2="48000" stroke="#222" stroke-width="150"/>
+<line x1="63000" y1="23000" x2="63000" y2="30000" stroke="#222" stroke-width="150"/>
+<line x1="63000" y1="23000" x2="72000" y2="23000" stroke="#222" stroke-width="150"/>
+<line x1="72000" y1="20000" x2="72000" y2="23000" stroke="#222" stroke-width="150"/>
+<line x1="0" y1="23000" x2="72000" y2="23000" stroke="#222" stroke-width="150"/>
+<line x1="36000" y1="23000" x2="36000" y2="48000" stroke="#222" stroke-width="150"/>
+</g>
+<g id="doors" data-layer="doors">
+<g transform="translate(18000,20000) rotate(0)"><line x1="-450" y1="0" x2="450" y2="0" stroke="#0a0" stroke-width="80"/><path d="M -450 0 A 900 900 0 0 1 450 -900" fill="none" stroke="#0a0" stroke-width="40"/></g>
+<g transform="translate(54000,20000) rotate(0)"><line x1="-450" y1="0" x2="450" y2="0" stroke="#0a0" stroke-width="80"/><path d="M -450 0 A 900 900 0 0 1 450 -900" fill="none" stroke="#0a0" stroke-width="40"/></g>
+<g transform="translate(18000,23000) rotate(0)"><line x1="-450" y1="0" x2="450" y2="0" stroke="#0a0" stroke-width="80"/><path d="M -450 0 A 900 900 0 0 1 450 -900" fill="none" stroke="#0a0" stroke-width="40"/></g>
+<g transform="translate(40500,23000) rotate(0)"><line x1="-450" y1="0" x2="450" y2="0" stroke="#0a0" stroke-width="80"/><path d="M -450 0 A 900 900 0 0 1 450 -900" fill="none" stroke="#0a0" stroke-width="40"/></g>
+<g transform="translate(49500,23000) rotate(0)"><line x1="-450" y1="0" x2="450" y2="0" stroke="#0a0" stroke-width="80"/><path d="M -450 0 A 900 900 0 0 1 450 -900" fill="none" stroke="#0a0" stroke-width="40"/></g>
+<g transform="translate(58500,23000) rotate(0)"><line x1="-450" y1="0" x2="450" y2="0" stroke="#0a0" stroke-width="80"/><path d="M -450 0 A 900 900 0 0 1 450 -900" fill="none" stroke="#0a0" stroke-width="40"/></g>
+<g transform="translate(67500,23000) rotate(0)"><line x1="-450" y1="0" x2="450" y2="0" stroke="#0a0" stroke-width="80"/><path d="M -450 0 A 900 900 0 0 1 450 -900" fill="none" stroke="#0a0" stroke-width="40"/></g>
+</g>
+<g id="rooms" data-layer="rooms">
+<polygon points="0,0 36000,0 36000,20000 0,20000" data-name="Open Plan West" fill="none" stroke="#999" stroke-width="20"/>
+<polygon points="0,20000 72000,20000 72000,23000 0,23000" data-name="Corridor" fill="none" stroke="#999" stroke-width="20"/>
+<polygon points="0,23000 36000,23000 36000,48000 0,48000" data-name="Open Plan South" fill="none" stroke="#999" stroke-width="20"/>
+<polygon points="33000,23000 36000,23000 36000,26000 33000,26000" data-name="Comms Room A" fill="none" stroke="#999" stroke-width="20"/>
+<polygon points="36000,0 72000,0 72000,20000 36000,20000" data-name="Open Plan East" fill="none" stroke="#999" stroke-width="20"/>
+<polygon points="69000,0 72000,0 72000,3000 69000,3000" data-name="Comms Room B" fill="none" stroke="#999" stroke-width="20"/>
+<polygon points="34000,8000 38000,8000 38000,14000 34000,14000" data-name="Stair Core" fill="none" stroke="#999" stroke-width="20"/>
+<polygon points="36000,23000 45000,23000 45000,30000 36000,30000" data-name="Office E1" fill="none" stroke="#999" stroke-width="20"/>
+<polygon points="45000,23000 54000,23000 54000,30000 45000,30000" data-name="Office E2" fill="none" stroke="#999" stroke-width="20"/>
+<polygon points="54000,23000 63000,23000 63000,30000 54000,30000" data-name="Office E3" fill="none" stroke="#999" stroke-width="20"/>
+<polygon points="63000,23000 72000,23000 72000,30000 63000,30000" data-name="Office E4" fill="none" stroke="#999" stroke-width="20"/>
+</g>
+<g id="columns" data-layer="columns">
+<rect x="8800" y="-200" width="400" height="400" fill="#444"/>
+<rect x="8800" y="9800" width="400" height="400" fill="#444"/>
+<rect x="8800" y="19800" width="400" height="400" fill="#444"/>
+<rect x="17800" y="-200" width="400" height="400" fill="#444"/>
+<rect x="17800" y="9800" width="400" height="400" fill="#444"/>
+<rect x="17800" y="19800" width="400" height="400" fill="#444"/>
+<rect x="26800" y="-200" width="400" height="400" fill="#444"/>
+<rect x="26800" y="9800" width="400" height="400" fill="#444"/>
+<rect x="26800" y="19800" width="400" height="400" fill="#444"/>
+<rect x="35800" y="-200" width="400" height="400" fill="#444"/>
+<rect x="35800" y="9800" width="400" height="400" fill="#444"/>
+<rect x="35800" y="19800" width="400" height="400" fill="#444"/>
+<rect x="44800" y="-200" width="400" height="400" fill="#444"/>
+<rect x="44800" y="9800" width="400" height="400" fill="#444"/>
+<rect x="44800" y="19800" width="400" height="400" fill="#444"/>
+<rect x="53800" y="-200" width="400" height="400" fill="#444"/>
+<rect x="53800" y="9800" width="400" height="400" fill="#444"/>
+<rect x="53800" y="19800" width="400" height="400" fill="#444"/>
+<rect x="62800" y="-200" width="400" height="400" fill="#444"/>
+<rect x="62800" y="9800" width="400" height="400" fill="#444"/>
+<rect x="62800" y="19800" width="400" height="400" fill="#444"/>
+<rect x="8800" y="32800" width="400" height="400" fill="#444"/>
+<rect x="8800" y="42800" width="400" height="400" fill="#444"/>
+<rect x="17800" y="32800" width="400" height="400" fill="#444"/>
+<rect x="17800" y="42800" width="400" height="400" fill="#444"/>
+<rect x="26800" y="32800" width="400" height="400" fill="#444"/>
+<rect x="26800" y="42800" width="400" height="400" fill="#444"/>
+</g>
+<g id="comms-room" data-layer="comms-room">
+<polygon points="33000,23000 36000,23000 36000,26000 33000,26000" fill="#dde" stroke="#33a" stroke-width="40"/>
+<polygon points="69000,0 72000,0 72000,3000 69000,3000" fill="#dde" stroke="#33a" stroke-width="40"/>
+</g>
+<g id="obstacles" data-layer="obstacles">
+<polygon points="34000,8000 38000,8000 38000,14000 34000,14000" data-kind="stair-core" fill="#eee" stroke="#000" stroke-width="40"/>
+<polygon points="5000,30000 17000,30000 17000,33500 5000,33500" data-kind="plant" fill="#eee" stroke="#000" stroke-width="40"/>
+</g>
+</svg>
